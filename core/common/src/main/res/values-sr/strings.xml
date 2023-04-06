@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="add_repository">Додај репозиторијум</string>
+    <string name="address">Адреса</string>
+    <string name="action_failed">Радња није успела</string>
+    <string name="all_applications">Све апликације</string>
+</resources>
