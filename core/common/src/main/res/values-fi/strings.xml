@@ -154,7 +154,7 @@
     <string name="target">Kohde</string>
     <string name="tap_to_install_DESC">Napauta asentaaksesi.</string>
     <string name="system">Järjestelmä</string>
-    <string name="update">Päivitys</string>
+    <string name="update">Päivitä</string>
     <string name="updates">Päivitykset</string>
     <string name="promotes_non_free_software">Edistää ei-vapaita ohjelmia</string>
     <string name="repository_not_used_DESC">Tätä ohjelmavarastoa ei ole vielä käytetty. Ota se käyttöön nähdäksesi siinä olevat sovellukset.</string>
